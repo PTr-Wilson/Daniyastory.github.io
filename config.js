@@ -9,7 +9,8 @@ var config = {
             "Your smile is my eternal ...",
             "maybe i'm missing you",
             "Happy birthday to you, happy 16th birthday",
-            "Phan :)"
+            "See you",
+            "Phan "
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
