@@ -4,13 +4,13 @@ var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
         "Dear Daniya!!",
-        "Flowers bloom for a season, with falling red as proof",
-            "How can the passing years be supported by smoke and dust",
+        "Flowers bloom for a season, with falling red as proof !",
+            "How can the passing years be supported by smoke and dust !!",
             "Your smile is my eternal ...",
-            "maybe i'm missing you",
-            "Happy birthday to you, happy 16th birthday",
-            "See you",
-            "Phan "
+            "Maybe i'm missing you !",
+            "Happy birthday to you, happy 16th birthday !",
+            "See you !",
+            "Phan"
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
